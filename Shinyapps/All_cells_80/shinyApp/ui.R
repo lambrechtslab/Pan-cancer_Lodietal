@@ -87,6 +87,9 @@ Below, you can find links to the Shiny apps for the individual cell types:"),
       h5("•" ,mmcels),
       h5("•" ,dc),
       h5("•" ,ecels),
+      br(),
+      br(),
+      h5("Note: To be able to show the large amount of data in the ShinyApp, we downsampled the data shown in the main ShinyApp to 80% of the original data.")
     ),
 
     ### Tab1.c1: violinplot / boxplot
