@@ -1,5 +1,6 @@
-# Pan-cancer_Lodietal
-This repository contains code related to data processing and downstream analysis associated with the study "A pan-cancer dissection of the tumor immune microenvironment transcriptomic landscape", under submission at Cell Reports Medicine.
+# Decoding tumor heterogeneity: A spatially informed pan-cancer analysis of the tumor microenvironment
+Reference: Lodi et al., Cell Rep Med 2025. DOI: 10.1016/j.xcrm.2025.102416
+This repository contains code related to data processing and downstream analysis associated with the study "Decoding tumor heterogeneity: A spatially informed pan-cancer analysis of the tumor microenvironment", Cell Rep Med. (October 13, 2025). 
 
 # Data Availability
 ## Processed & filtered scRNAseq data
@@ -17,10 +18,3 @@ The following changes have been made in the ShinyApp code to reduce the computat
 
 # Contacts
 All other relevant data and analysis are available from the authors upon request. For further enquires, please either raise an issue via GitHub or email Bram Boeckx (bram.boeckx@kuleuven.be), Diether Lambrechts (diether.lambrechts@kuleuven.be) or Francesca Lodi (francesca.lodi@kuleuven.be).
-
-# List of scripts
-1) Heatmap showing the (scaled) expression of curated gene signatures (columns) across subclusters (rows)
-2) Box plots displaying the fractions of major cell types detected across cancer types
-=======
-All other relevant data and analysis are available from the authors upon request. For further enquires, please either raise an issue via GitHub or email Diether Lambrechts (diether.lambrechts@kuleuven.be). 
-
