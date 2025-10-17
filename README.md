@@ -1,5 +1,5 @@
 # Decoding tumor heterogeneity: A spatially informed pan-cancer analysis of the tumor microenvironment
-Reference: Lodi et al., Cell Rep Med 2025. DOI: 10.1016/j.xcrm.2025.102416. This repository contains code related to data processing and downstream analysis associated with the study "Decoding tumor heterogeneity: A spatially informed pan-cancer analysis of the tumor microenvironment", Cell Rep Med. (October 13, 2025). 
+This repository contains code related to data processing and downstream analysis associated with the study "Decoding tumor heterogeneity: A spatially informed pan-cancer analysis of the tumor microenvironment", Lodi et al., Cell Rep Med 2025. DOI: 10.1016/j.xcrm.2025.102416 
 
 # Data Availability
 ## Processed & filtered scRNAseq data
